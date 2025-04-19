@@ -1,0 +1,43 @@
+[2025-03-25 17:27:11,374] 10 root - INFO - Data loading started
+[2025-03-25 17:27:21,541] 13 root - INFO - Data loading completed
+[2025-03-25 17:31:45,553] 10 root - INFO - Data loading started
+[2025-03-25 17:31:45,883] 13 root - INFO - Data loading completed
+[2025-03-25 17:33:34,159] 10 root - INFO - Data loading started
+[2025-03-25 17:33:34,173] 13 root - INFO - Data loading completed
+[2025-03-25 17:33:37,115] 17 root - INFO - 
+[2025-03-25 17:33:38,627] 20 root - INFO - 
+[2025-03-25 17:33:45,628] 24 root - INFO - 
+[2025-03-25 17:34:25,899] 10 root - INFO - Data loading started
+[2025-03-25 17:34:25,915] 13 root - INFO - Data loading completed
+[2025-03-25 17:34:28,013] 17 root - INFO - 
+[2025-03-25 17:34:28,013] 20 root - INFO - 
+[2025-03-25 17:34:35,106] 24 root - INFO - 
+[2025-03-25 17:35:01,602] 10 root - INFO - Data loading started
+[2025-03-25 17:35:01,611] 13 root - INFO - Data loading completed
+[2025-03-25 17:35:03,683] 17 root - INFO - 
+[2025-03-25 17:35:03,688] 20 root - INFO - 
+[2025-03-25 17:35:10,641] 24 root - INFO - 
+[2025-03-25 17:36:47,215] 10 root - INFO - Data loading started
+[2025-03-25 17:36:47,230] 13 root - INFO - Data loading completed
+[2025-03-25 17:36:49,328] 17 root - INFO - 
+[2025-03-25 17:36:49,343] 20 root - INFO - 
+[2025-03-25 17:36:55,326] 24 root - INFO - 
+[2025-03-25 17:38:43,939] 10 root - INFO - Data loading started
+[2025-03-25 17:38:43,939] 16 root - INFO - Exception in loading data
+[2025-03-25 17:47:00,407] 10 root - INFO - Data loading started
+[2025-03-25 17:47:00,517] 13 root - INFO - Data loading completed
+[2025-03-25 17:47:03,243] 17 root - INFO - 
+[2025-03-25 17:47:03,336] 20 root - INFO - 
+[2025-03-25 17:47:09,728] 24 root - INFO - 
+[2025-03-25 17:49:24,667] 12 root - INFO - \U0001f504 Data loading started...
+[2025-03-25 17:49:24,761] 16 root - INFO - \U0001f4c2 Processing user-uploaded file: FILE.txt
+[2025-03-25 17:49:24,839] 36 root - INFO - \u2705 Data loading completed.
+[2025-03-25 17:49:26,983] 17 root - INFO - 
+[2025-03-25 17:49:26,998] 20 root - INFO - 
+[2025-03-25 17:49:29,234] 24 root - INFO - 
+[2025-03-25 17:50:02,945] 12 root - INFO - \U0001f504 Data loading started...
+[2025-03-25 17:50:02,945] 16 root - INFO - \U0001f4c2 Processing user-uploaded file: FILE.txt
+[2025-03-25 17:50:02,960] 36 root - INFO - \u2705 Data loading completed.
+[2025-03-25 17:50:04,321] 17 root - INFO - 
+[2025-03-25 17:50:04,321] 20 root - INFO - 
+[2025-03-25 17:50:06,510] 24 root - INFO - 

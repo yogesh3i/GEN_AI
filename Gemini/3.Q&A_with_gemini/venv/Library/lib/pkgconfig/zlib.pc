@@ -1,0 +1,13 @@
+prefix=D:/GENAI-2/Gemini/Q&A_with_gemini/venv/Library
+exec_prefix=D:/GENAI-2/Gemini/Q&A_with_gemini/venv/Library
+libdir=D:/GENAI-2/Gemini/Q&A_with_gemini/venv/Library/lib
+sharedlibdir=D:/GENAI-2/Gemini/Q&A_with_gemini/venv/Library/lib
+includedir=D:/GENAI-2/Gemini/Q&A_with_gemini/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

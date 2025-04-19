@@ -1,0 +1,5 @@
+streamlit 
+ipykernel 
+python-dotenv 
+google-generativeai
+pymysql
