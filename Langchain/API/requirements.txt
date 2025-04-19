@@ -1,0 +1,10 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+langchain-openai
+langserve
+fastapi
+uvicorn
+langchain-community
