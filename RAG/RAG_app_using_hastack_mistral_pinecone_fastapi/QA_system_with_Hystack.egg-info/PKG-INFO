@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: QA-system-with-Hystack
+Version: 0.0.1
+Author: Yogesh
+Author-email: yogideotale33@gmail.com
+Requires-Dist: pinecone-haystack
+Requires-Dist: haystack-ai
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

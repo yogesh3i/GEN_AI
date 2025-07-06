@@ -1,0 +1,10 @@
+setup.py
+QA_System/__init__.py
+QA_System/ingestion.py
+QA_System/retrievaland_generation.py
+QA_System/utils.py
+QA_system_with_Hystack.egg-info/PKG-INFO
+QA_system_with_Hystack.egg-info/SOURCES.txt
+QA_system_with_Hystack.egg-info/dependency_links.txt
+QA_system_with_Hystack.egg-info/requires.txt
+QA_system_with_Hystack.egg-info/top_level.txt
