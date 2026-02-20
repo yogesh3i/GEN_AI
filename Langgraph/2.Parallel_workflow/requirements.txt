@@ -1,0 +1,5 @@
+Langgraph 
+langchain 
+ipykernel 
+lanachain-openai
+dotenv
